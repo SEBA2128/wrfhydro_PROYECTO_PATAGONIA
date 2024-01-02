@@ -1,0 +1,8 @@
+.env
+3-hour_Average_lwd_swd_preci
+3h_forecast_specific_humidity
+3h_forecast_press_temp
+3h_forecast_u_v_component_wind
+combined_output
+FORCING
+gfs_enero_sep.tar.gz
